@@ -1,0 +1,159 @@
+Removed Pin From Net: NetName=Pack- Pin=CON?-2
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=CON? NewDesignator=CON2
+Change Component Designator: OldDesignator=CON? NewDesignator=CON3
+Change Component Designator: OldDesignator=CON? NewDesignator=CON4
+Change Component Designator: OldDesignator=DS? NewDesignator=DS1
+Change Component Designator: OldDesignator=DS? NewDesignator=DS2
+Change Component Designator: OldDesignator=DS? NewDesignator=DS3
+Change Component Designator: OldDesignator=DS? NewDesignator=DS4
+Change Component Designator: OldDesignator=DS? NewDesignator=DS5
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Change Component Designator: OldDesignator=R? NewDesignator=R21
+Change Component Designator: OldDesignator=TP? NewDesignator=TP1
+Change Component Designator: OldDesignator=TP? NewDesignator=TP2
+Change Component Designator: OldDesignator=TP? NewDesignator=TP3
+Change Component Designator: OldDesignator=TP? NewDesignator=TP4
+Change Component Designator: OldDesignator=TP? NewDesignator=TP5
+Change Component Designator: OldDesignator=TP? NewDesignator=TP6
+Change Component Designator: OldDesignator=TP? NewDesignator=TP7
+Change Component Designator: OldDesignator=TP? NewDesignator=TP8
+Change Component Designator: OldDesignator=TP? NewDesignator=TP9
+Added Pin To Net: NetName=NetCON?_1 Pin=CON2-2
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC2_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC3_2
+Change Net Name : Old Net Name=NetCON?_1 New Net Name=NetCON2_2
+Change Net Name : Old Net Name=NetCON?_2 New Net Name=NetCON4_2
+Change Net Name : Old Net Name=NetDS?_1 New Net Name=NetDS4_1
+Change Net Name : Old Net Name=NetDS?_2 New Net Name=NetDS4_2
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=C5-2
+Added Pin To Net: NetName=NetC3_1 Pin=R8-2
+Added Pin To Net: NetName=NetC3_1 Pin=R9-2
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=C7-2
+Added Pin To Net: NetName=NetC4_1 Pin=R12-2
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=C6-2
+Added Pin To Net: NetName=NetC4_2 Pin=R11-2
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=C8-2
+Added Pin To Net: NetName=NetC5_1 Pin=R10-2
+Added Pin To Net: NetName=NetC5_1 Pin=R13-2
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=R15-2
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=C11-2
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=R12-1
+Added Pin To Net: NetName=NetC10_2 Pin=R19-1
+Added Pin To Net: NetName=NetC10_2 Pin=R21-2
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetCON3_2 Pin=CON3-2
+Added Pin To Net: NetName=NetCON3_2 Pin=CON4-1
+Added Pin To Net: NetName=NetCON3_2 Pin=DS3-1
+Added Pin To Net: NetName=NetCON3_2 Pin=R10-1
+Added Pin To Net: NetName=NetCON3_2 Pin=TP5-1
+Added Net: Name=NetCON3_2
+Added Pin To Net: NetName=NetQ1_4 Pin=R16-1
+Added Pin To Net: NetName=NetQ1_4 Pin=R19-2
+Added Net: Name=NetQ1_4
+Added Net: Name=NetQ1_5,6,7,8
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=R6-1
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=TP6-1
+Added Net: Name=NetR16_2
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Net: Name=NetR18_2
+Added Member To Class: ClassName=Main Schematics Member=Component C1 1uF
+Added Member To Class: ClassName=Main Schematics Member=Component C2 1uF
+Added Member To Class: ClassName=Main Schematics Member=Component C4 0.1uF
+Added Member To Class: ClassName=Main Schematics Member=Component C5 1uF
+Added Member To Class: ClassName=Main Schematics Member=Component C6 0.1uF
+Added Member To Class: ClassName=Main Schematics Member=Component C7 0.1uF
+Added Member To Class: ClassName=Main Schematics Member=Component C8 1uF
+Added Member To Class: ClassName=Main Schematics Member=Component C9 1uF
+Added Member To Class: ClassName=Main Schematics Member=Component C10 0.1uF
+Added Member To Class: ClassName=Main Schematics Member=Component C11 0.1uF
+Added Member To Class: ClassName=Main Schematics Member=Component CON2 1042P
+Added Member To Class: ClassName=Main Schematics Member=Component CON3 1042P
+Added Member To Class: ClassName=Main Schematics Member=Component DS1 HSMS-C190
+Added Member To Class: ClassName=Main Schematics Member=Component DS2 HSMS-C190
+Added Member To Class: ClassName=Main Schematics Member=Component DS3 HSMS-C190
+Added Member To Class: ClassName=Main Schematics Member=Component DS4 BAS16J,135
+Added Member To Class: ClassName=Main Schematics Member=Component R1 10K
+Added Member To Class: ClassName=Main Schematics Member=Component R2 1K
+Added Member To Class: ClassName=Main Schematics Member=Component R3 49R9
+Added Member To Class: ClassName=Main Schematics Member=Component R4 10K
+Added Member To Class: ClassName=Main Schematics Member=Component R5 1K
+Added Member To Class: ClassName=Main Schematics Member=Component R6 10K
+Added Member To Class: ClassName=Main Schematics Member=Component R7 100K
+Added Member To Class: ClassName=Main Schematics Member=Component R8 49R9
+Added Member To Class: ClassName=Main Schematics Member=Component R9 1K
+Added Member To Class: ClassName=Main Schematics Member=Component R10 49R9
+Added Member To Class: ClassName=Main Schematics Member=Component R11 100R
+Added Member To Class: ClassName=Main Schematics Member=Component R12 100R
+Added Member To Class: ClassName=Main Schematics Member=Component R13 1K
+Added Member To Class: ClassName=Main Schematics Member=Component R14 5.1K
+Added Member To Class: ClassName=Main Schematics Member=Component R15 49R9
+Added Member To Class: ClassName=Main Schematics Member=Component R16 5.1K
+Added Member To Class: ClassName=Main Schematics Member=Component R17 1M
+Added Member To Class: ClassName=Main Schematics Member=Component R18 470K
+Added Member To Class: ClassName=Main Schematics Member=Component R20 3M
+Added Member To Class: ClassName=Main Schematics Member=Component R21 0.01R
+Added Member To Class: ClassName=Main Schematics Member=Component TP1 Test Point SMD Round 1.27mm
+Added Member To Class: ClassName=Main Schematics Member=Component TP2 Test Point SMD Round 1.27mm
+Added Member To Class: ClassName=Main Schematics Member=Component TP3 Test Point SMD Round 1.27mm
+Added Member To Class: ClassName=Main Schematics Member=Component TP4 Test Point SMD Round 1.27mm
+Added Member To Class: ClassName=Main Schematics Member=Component TP5 Test Point SMD Round 1.27mm
+Added Member To Class: ClassName=Main Schematics Member=Component TP6 Test Point SMD Round 1.27mm
+Added Member To Class: ClassName=Main Schematics Member=Component TP8 Test Point SMD Round 1.27mm
+Added Member To Class: ClassName=Main Schematics Member=Component TP9 Test Point SMD Round 1.27mm
+Added Room: Name=Main Schematics
