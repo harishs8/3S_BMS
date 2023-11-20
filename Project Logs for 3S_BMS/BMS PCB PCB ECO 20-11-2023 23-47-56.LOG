@@ -1,0 +1,4 @@
+Added Component: Designator=TP10(Test Point Round 1.27mm)
+Added Pin To Net: NetName=NetR18_2 Pin=TP10-1
+Added Member To Class: ClassName=Main Schematics Member=Component TP10 Test Point SMD Round 1.27mm
+Added Room: Name=Main Schematics
