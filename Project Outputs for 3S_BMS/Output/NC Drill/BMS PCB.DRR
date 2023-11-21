@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BMS PCB.PcbDoc   21-11-2023  21:58:42
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : BMS PCB.TXT
+ASCII RectHoles File : BMS PCB-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.4mm)                                             Round             71        PTH        0.00inch (0.00mm)
+T2      35mil (0.9mm)                                             Round             14        PTH        0.00inch (0.00mm)
+T3      39mil (1mm)                                               Rectangle         3         PTH        0.00inch (0.00mm)
+T4      43mil (1.1mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T5      94mil (2.39mm)                                            Round             3         NPTH       0.00inch (0.00mm)
+T6      126mil (3.2mm)                                            Round             4         NPTH       0.00inch (0.00mm)
+T7      136mil (3.45mm)                                           Round             6         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              103
+
+Total Processing Time (hh:mm:ss) : 00:00:00
