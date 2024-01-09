@@ -7,12 +7,14 @@ Generating : Fab Notes
 
     Adding Layer      : Fab Notes
 
+    Adding Layer      : Mechanical 1
+
     Adding Layer      : Board Shape
 
 
 Used DCodes :
-    D12
-    D15
+    D13
+    D16
 *************************************************************
 
 *************************************************************
@@ -21,13 +23,15 @@ Generating : Dimensions
 
     Adding Layer      : Dimensions
 
+    Adding Layer      : Mechanical 1
+
     Adding Layer      : Board Shape
 
 
 Used DCodes :
     D15
     D16
-    D92
+    D82
 *************************************************************
 
 *************************************************************
@@ -36,11 +40,28 @@ Generating : Board Shape
 
     Adding Layer      : Board Shape
 
+    Adding Layer      : Mechanical 1
+
     Adding Layer      : Board Shape
 
 
 Used DCodes :
-    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : BMS PCB.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D16
 *************************************************************
 
 *************************************************************
@@ -49,15 +70,17 @@ Generating : Bottom Overlay
 
     Adding Layer      : Bottom Overlay
 
+    Adding Layer      : Mechanical 1
+
     Adding Layer      : Board Shape
 
 
 Used DCodes :
     D10
     D11
-    D12
+    D13
     D14
-    D15
+    D16
 *************************************************************
 
 *************************************************************
@@ -66,6 +89,8 @@ Generating : Bottom Paste
 
     Adding Layer      : Bottom Paste
 
+    Adding Layer      : Mechanical 1
+
     Adding Layer      : Board Shape
 
     Adding Layer      : Bottom Layer
@@ -74,12 +99,12 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D15
+    D16
     D18
-    D24
+    D25
     D31
-    D87
-    D88
+    D77
+    D78
 *************************************************************
 
 *************************************************************
@@ -88,6 +113,8 @@ Generating : Bottom Solder
 
     Adding Layer      : Bottom Solder
 
+    Adding Layer      : Mechanical 1
+
     Adding Layer      : Board Shape
 
     Adding Layer      : Bottom Layer
@@ -96,9 +123,9 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D15
+    D16
     D36
-    D42
+    D43
     D49
     D53
     D54
@@ -110,8 +137,8 @@ Used DCodes :
     D60
     D61
     D62
-    D90
-    D91
+    D80
+    D81
 *************************************************************
 
 *************************************************************
@@ -119,6 +146,8 @@ Generating : Top Solder
       File : BMS PCB.GTS
 
     Adding Layer      : Top Solder
+
+    Adding Layer      : Mechanical 1
 
     Adding Layer      : Board Shape
 
@@ -128,7 +157,7 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D15
+    D16
     D35
     D36
     D37
@@ -165,6 +194,8 @@ Generating : Top Paste
 
     Adding Layer      : Top Paste
 
+    Adding Layer      : Mechanical 1
+
     Adding Layer      : Board Shape
 
     Adding Layer      : Top Layer
@@ -173,7 +204,7 @@ Generating : Top Paste
 
 
 Used DCodes :
-    D15
+    D16
     D17
     D18
     D19
@@ -200,6 +231,8 @@ Generating : Top Overlay
 
     Adding Layer      : Top Overlay
 
+    Adding Layer      : Mechanical 1
+
     Adding Layer      : Board Shape
 
 
@@ -221,11 +254,13 @@ Generating : Top Pad Master
 
     Adding Layer      : Multi-Layer
 
+    Adding Layer      : Mechanical 1
+
     Adding Layer      : Board Shape
 
 
 Used DCodes :
-    D15
+    D16
     D17
     D18
     D19
@@ -262,13 +297,15 @@ Generating : Bottom Pad Master
 
     Adding Layer      : Multi-Layer
 
+    Adding Layer      : Mechanical 1
+
     Adding Layer      : Board Shape
 
 
 Used DCodes :
-    D15
+    D16
     D18
-    D24
+    D25
     D31
     D68
     D69
@@ -279,8 +316,8 @@ Used DCodes :
     D74
     D75
     D76
-    D87
-    D88
+    D77
+    D78
 *************************************************************
 
 *************************************************************
@@ -289,20 +326,22 @@ Generating : Bottom Layer
 
     Adding Layer      : Bottom Layer
 
+    Adding Layer      : Mechanical 1
+
     Adding Layer      : Board Shape
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D15
+    D16
     D18
-    D24
+    D25
     D31
     D62
     D63
     D64
-    D65
+    D66
     D68
     D69
     D70
@@ -312,62 +351,9 @@ Used DCodes :
     D74
     D75
     D76
-    D78
-    D87
-    D88
-    D89
-*************************************************************
-
-*************************************************************
-Generating : Layer 2
-      File : BMS PCB.GP2
-
-    Adding Layer      : Layer 2
-
-    Adding Layer      : Board Shape
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D64
-    D70
     D77
     D78
     D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-*************************************************************
-
-*************************************************************
-Generating : Layer 1
-      File : BMS PCB.GP1
-
-    Adding Layer      : Layer 1
-
-    Adding Layer      : Board Shape
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D70
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
 *************************************************************
 
 *************************************************************
@@ -376,14 +362,16 @@ Generating : Top Layer
 
     Adding Layer      : Top Layer
 
+    Adding Layer      : Mechanical 1
+
     Adding Layer      : Board Shape
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D12
-    D15
+    D13
+    D16
     D17
     D18
     D19
