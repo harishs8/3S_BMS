@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=NetC11_2 Pin=Q2-1
+Removed Pin From Net: NetName=NetC11_2 Pin=Q2-2
+Removed Pin From Net: NetName=NetC11_2 Pin=Q2-3
+Removed Pin From Net: NetName=Pack- Pin=Q3-1
+Removed Pin From Net: NetName=Pack- Pin=Q3-2
+Removed Pin From Net: NetName=Pack- Pin=Q3-3
+Removed Pin From Net: NetName=NetDS5_2 Pin=Q3-4
+Removed Member From Class: ClassName=Main Schematics Member=Q3
+Change Component Footprint: Designator=Q2 Old Footprint=Q5A New Footprint=DPAK
+Change Component Comment : Designator=Q2 Old Comment=CSD18534Q5A New Comment=IRFR024NTRPBF
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "Q5A"; UniqueID = "\CNNMHRNO" ("\CNNMHRNO")
+Change component parameters (AddParameter): Name = "Category"; Value = "MOSFETs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "17A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Element Configuration"; Value = "5460ElementConfiguration"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fall Time"; Value = "27ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "IRFR024NTRPBF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Vgs"; Value = "4V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Elements"; Value = "1NUMBER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "On-State Resistance"; Value = "75mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "2000NUMBER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.89, 10=0.77, 100=0.5331, 500=0.44546, 1000=0.37911 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "5898YesNo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "75mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "180216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "IRFR024NPBFCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "55V"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(DPAK)
+Add component (AddParameter): Name = "Category"; Value = "MOSFETs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "17A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Element Configuration"; Value = "5460ElementConfiguration"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fall Time"; Value = "27ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "IRFR024NTRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Vgs"; Value = "4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1NUMBER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "On-State Resistance"; Value = "75mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2000NUMBER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.89, 10=0.77, 100=0.5331, 500=0.44546, 1000=0.37911 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "5898YesNo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "75mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "180216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "IRFR024NPBFCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "55V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC11_2 Pin=Q1-3
+Added Pin To Net: NetName=NetDS5_2 Pin=Q2-1
+Added Pin To Net: NetName=Pack- Pin=Q2-3
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R20-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R23-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q2-2
+Added Net: Name=NetQ1_2
+Added Member To Class: ClassName=Main Schematics Member=Component Q1 IRFR024NTRPBF

@@ -1,0 +1,43 @@
+Change Physical Footprint: Designator=C1 Old Footprint=CAP_0805 New Footprint=CAP_0805
+Change Physical Footprint: Designator=C2 Old Footprint=CAP_0805 New Footprint=CAP_0805
+Change Physical Footprint: Designator=C4 Old Footprint=CAP_0805 New Footprint=CAP_0805
+Change Physical Footprint: Designator=C5 Old Footprint=CAP_0805 New Footprint=CAP_0805
+Change Physical Footprint: Designator=C6 Old Footprint=CAP_0805 New Footprint=CAP_0805
+Change Physical Footprint: Designator=C7 Old Footprint=CAP_0805 New Footprint=CAP_0805
+Change Physical Footprint: Designator=C8 Old Footprint=CAP_0805 New Footprint=CAP_0805
+Change Physical Footprint: Designator=C9 Old Footprint=CAP_0805 New Footprint=CAP_0805
+Change Physical Footprint: Designator=C10 Old Footprint=CAP_0805 New Footprint=CAP_0805
+Change Physical Footprint: Designator=C11 Old Footprint=CAP_0805 New Footprint=CAP_0805
+Change Physical Footprint: Designator=C12 Old Footprint=CAP_0805 New Footprint=CAP_0805
+Change Physical Footprint: Designator=C13 Old Footprint=CAP_0805 New Footprint=CAP_0805
+Change Physical Footprint: Designator=C14 Old Footprint=CAP_0805 New Footprint=CAP_0805
+Change Physical Footprint: Designator=C15 Old Footprint=CAP_0805 New Footprint=CAP_0805
+Change Physical Footprint: Designator=C18 Old Footprint=CAP_0805 New Footprint=CAP_0805
+Change Physical Footprint: Designator=DS1 Old Footprint=LED_0603 New Footprint=LED_0603
+Change Physical Footprint: Designator=DS2 Old Footprint=LED_0603 New Footprint=LED_0603
+Change Physical Footprint: Designator=DS3 Old Footprint=LED_0603 New Footprint=LED_0603
+Change Physical Footprint: Designator=DS4 Old Footprint=LED_0603 New Footprint=LED_0603
+Change Physical Footprint: Designator=DS7 Old Footprint=LED_0603 New Footprint=LED_0603
+Change Physical Footprint: Designator=MH1 Old Footprint=MH_3mm New Footprint=MH_3mm
+Change Physical Footprint: Designator=MH2 Old Footprint=MH_3mm New Footprint=MH_3mm
+Change Physical Footprint: Designator=MH3 Old Footprint=MH_3mm New Footprint=MH_3mm
+Change Physical Footprint: Designator=MH4 Old Footprint=MH_3mm New Footprint=MH_3mm
+Change Physical Footprint: Designator=P1 Old Footprint=HDR2X5 New Footprint=HDR2X5
+Change Physical Footprint: Designator=P2 Old Footprint=HDR2X2 New Footprint=HDR2X2
+Change Physical Footprint: Designator=R2 Old Footprint=RES_0805 New Footprint=RES_0805
+Change Physical Footprint: Designator=R7 Old Footprint=RES_0805 New Footprint=RES_0805
+Change Physical Footprint: Designator=R9 Old Footprint=RES_0805 New Footprint=RES_0805
+Change Physical Footprint: Designator=R10 Old Footprint=RES_0805 New Footprint=RES_0805
+Change Physical Footprint: Designator=R17 Old Footprint=RES_0805 New Footprint=RES_0805
+Change Physical Footprint: Designator=R27 Old Footprint=RES_0805 New Footprint=RES_0805
+Change Physical Footprint: Designator=R29 Old Footprint=RES_0805 New Footprint=RES_0805
+Change Physical Footprint: Designator=TP1 Old Footprint=Test Point Round 1.27mm New Footprint=Test Point Round 1.27mm
+Change Physical Footprint: Designator=TP2 Old Footprint=Test Point Round 1.27mm New Footprint=Test Point Round 1.27mm
+Change Physical Footprint: Designator=TP3 Old Footprint=Test Point Round 1.27mm New Footprint=Test Point Round 1.27mm
+Change Physical Footprint: Designator=TP4 Old Footprint=Test Point Round 1.27mm New Footprint=Test Point Round 1.27mm
+Change Physical Footprint: Designator=TP5 Old Footprint=Test Point Round 1.27mm New Footprint=Test Point Round 1.27mm
+Change Physical Footprint: Designator=TP6 Old Footprint=Test Point Round 1.27mm New Footprint=Test Point Round 1.27mm
+Change Physical Footprint: Designator=TP7 Old Footprint=Test Point Round 1.27mm New Footprint=Test Point Round 1.27mm
+Change Physical Footprint: Designator=TP8 Old Footprint=Test Point Round 1.27mm New Footprint=Test Point Round 1.27mm
+Change Physical Footprint: Designator=TP9 Old Footprint=Test Point Round 1.27mm New Footprint=Test Point Round 1.27mm
+Change Physical Footprint: Designator=TP10 Old Footprint=Test Point Round 1.27mm New Footprint=Test Point Round 1.27mm

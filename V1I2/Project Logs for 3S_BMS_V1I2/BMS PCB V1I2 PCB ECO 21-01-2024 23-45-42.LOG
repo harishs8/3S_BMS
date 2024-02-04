@@ -1,0 +1,23 @@
+Added Component: Designator=SW1(SW_ROCKER)
+Add component (AddParameter): Name = "Category"; Value = "Rocker Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.mouser.com/ds/2/140/RA1-346116.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mouser.com/ds/2/140/RA1-346116.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://sten-eswitch-13110800-production.s3.amazonaws.com/system/asset/product_line/data_sheet/81/RA1.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://sten-eswitch-13110800-production.s3.amazonaws.com/system/asset/product_line/data_sheet/81/RA1.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://www.e-switch.com/system/asset/product_line/data_sheet/81/RA1.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.e-switch.com/system/asset/product_line/data_sheet/81/RA1.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com/RA1113112R-E-Switch-datasheet-41578078.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com/RA1113112R-E-Switch-datasheet-41578078.pdf?src-supplier=Electro+Sonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com/RA1113112R-E-Switch-datasheet-62278816.pdf?src-supplier=Master+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com/RA1113112R-E-Switch-datasheet-62278816.pdf?src-supplier=Master+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RA1113112R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.67, 10=0.594, 25=0.5636, 50=0.536, 100=0.511, 250=0.48844, 500=0.43834, 1000=0.41329 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "16370"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "EG5619-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Pack+ Pin=SW1-1
+Added Pin To Net: NetName=PackOUT Pin=SW1-2
+Added Pin To Net: NetName=PackOUT Pin=SW1-2
+Added Member To Class: ClassName=Main Schematics Member=Component SW1 RA1113112R

@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=NetC4_2 Pin=33-2
-Change Component Designator: OldDesignator=33 NewDesignator=R8
-Added Pin To Net: NetName=NetDS2_2 Pin=DS2-2
-Added Pin To Net: NetName=NetDS2_2 Pin=R12-1
-Added Net: Name=NetDS2_2
-Added Pin To Net: NetName=NetDS3_2 Pin=DS3-2
-Added Pin To Net: NetName=NetDS3_2 Pin=R16-1
-Added Net: Name=NetDS3_2

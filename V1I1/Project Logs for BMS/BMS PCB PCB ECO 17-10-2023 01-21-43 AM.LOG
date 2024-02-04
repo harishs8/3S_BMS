@@ -1,0 +1,26 @@
+Added Member To Class: ClassName=Main Schematics Member=Component C3 1uF
+Added Member To Class: ClassName=Main Schematics Member=Component C4 1uF
+Added Member To Class: ClassName=Main Schematics Member=Component C6 1uF
+Added Member To Class: ClassName=Main Schematics Member=Component C8 0.1uF
+Added Member To Class: ClassName=Main Schematics Member=Component C9 1uF
+Added Member To Class: ClassName=Main Schematics Member=Component C10 1uF
+Added Member To Class: ClassName=Main Schematics Member=Component CON3 1042P
+Added Member To Class: ClassName=Main Schematics Member=Component CON5 1042P
+Added Member To Class: ClassName=Main Schematics Member=Component DS4 HSMG-C190
+Added Member To Class: ClassName=Main Schematics Member=Component DS5 BAS16J,135
+Added Member To Class: ClassName=Main Schematics Member=Component R1 10K
+Added Member To Class: ClassName=Main Schematics Member=Component R4 100K
+Added Member To Class: ClassName=Main Schematics Member=Component R5 49R9
+Added Member To Class: ClassName=Main Schematics Member=Component R6 10K
+Added Member To Class: ClassName=Main Schematics Member=Component R7 10K
+Added Member To Class: ClassName=Main Schematics Member=Component R9 10K
+Added Member To Class: ClassName=Main Schematics Member=Component R10 100K
+Added Member To Class: ClassName=Main Schematics Member=Component R11 49R9
+Added Member To Class: ClassName=Main Schematics Member=Component R14 100R
+Added Member To Class: ClassName=Main Schematics Member=Component R15 100R
+Added Member To Class: ClassName=Main Schematics Member=Component R16 1K
+Added Member To Class: ClassName=Main Schematics Member=Component R17 10K
+Added Member To Class: ClassName=Main Schematics Member=Component R18 5.1K
+Added Member To Class: ClassName=Main Schematics Member=Component R20 5.1K
+Added Member To Class: ClassName=Main Schematics Member=Component R21 1M
+Added Room: Name=Main Schematics

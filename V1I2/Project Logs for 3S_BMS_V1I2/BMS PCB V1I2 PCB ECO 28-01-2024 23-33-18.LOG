@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Pack+ Pin=SW1-1
+Removed Pin From Net: NetName=PackOUT Pin=SW1-2
+Added Pin To Net: NetName=PackOUT Pin=SW1-1
+Added Pin To Net: NetName=Pack+ Pin=SW1-2
+Added Room: Name=Main Schematics
