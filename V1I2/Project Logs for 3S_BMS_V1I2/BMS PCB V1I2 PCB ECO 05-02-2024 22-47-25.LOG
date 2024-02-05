@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=J2-A1_B12
+Removed Pin From Net: NetName=GND Pin=J2-B1_A12
+Added Pin To Net: NetName=Out- Pin=J1-4
+Added Pin To Net: NetName=Out- Pin=J2-A1_B12
+Added Pin To Net: NetName=Out- Pin=J2-B1_A12
+Added Room: Name=Main Schematics

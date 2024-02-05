@@ -1,0 +1,350 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 17 0.5314961 3.3661417 180 N SW1 SW_SPST_Rocker_Mini_6A ;0=2,1=0.0000
+TOP 0 0.5314961 3.3661417 90 N 6 12 SW1-1
+TOP 1 0.5314961 3.5629921 90 N 32 15 SW1-2
+#
+# CMP 1
+CMP 3 0.1948819 2.7224409 180 N CON1 1800001 ;0=2,1=0.0000
+PRP Category 'Terminal Blocks'
+PRP ComponentLink1Description 'http://www.mouser.com/ds/2/324/ItemDetail_1800001-929782.pdf?src-supplier=Mouser'
+PRP ComponentLink1URL 'http://www.mouser.com/ds/2/324/ItemDetail_1800001-929782.pdf?src-supplier=Mouser'
+PRP ComponentLink2Description 'http://components.arrow.com/part/dataview/46117015S71155N1555?src-supplier=Arrow+Electronics'
+PRP ComponentLink2URL 'http://components.arrow.com/part/dataview/46117015S71155N1555?src-supplier=Arrow+Electronics'
+PRP ComponentLink3Description 'https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1800001.pdf?src-supplier=Digi-Key'
+PRP ComponentLink3URL 'https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1800001.pdf?src-supplier=Digi-Key'
+PRP Manufacturer_1 'Phoenix Contact'
+PRP Manufacturer_Part_Number_1 '1800001'
+PRP Pricing_1 '1=1.45, 10=1.408, 50=1.3156, 100=1.2104, 250=1.11828, 500=1.1154 (USD)'
+PRP RoHS 'Yes'
+PRP Stock_1 '169'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '277-17216-ND'
+TOP 0 0.1948819 2.7724408 0 N 6 9 CON1-1
+TOP 1 0.1948819 2.672441 0 N 14 15 CON1-2
+#
+# CMP 2
+CMP 11 0.2401575 0.9434466 90 N R26 1K ;0=1,1=0.0236
+PRP Case_Code_(Imperial) '0805'
+PRP Case_Code_(Metric) '2012'
+PRP Case/Package '0805'
+PRP Category 'Chip SMD Resistors'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/7941/1686128-7941719.pdf?src-supplier=Element14'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/7941/1686128-7941719.pdf?src-supplier=Element14'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/46385/444164-46385020.pdf?src-supplier=Element14'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/46385/444164-46385020.pdf?src-supplier=Element14'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/2456/pyu-r-int-thick-7-2456976.pdf?src-supplier=Digi-Key'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/2456/pyu-r-int-thick-7-2456976.pdf?src-supplier=Digi-Key'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/2456/pyu-r-int-thick-7-2456977.pdf?src-supplier=Digi-Key'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/2456/pyu-r-int-thick-7-2456977.pdf?src-supplier=Digi-Key'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/2456/pyu-r-int-thick-7-2456975.pdf?src-supplier=Digi-Key'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/2456/pyu-r-int-thick-7-2456975.pdf?src-supplier=Digi-Key'
+PRP ComponentLink6Description 'https://datasheet.ciiva.com/16850/rc0805-16850409.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink6URL 'https://datasheet.ciiva.com/16850/rc0805-16850409.pdf?src-supplier=Future+Electronics'
+PRP Construction 'Rectangular'
+PRP Depth '1.25mm'
+PRP Features 'Moisture Resistant'
+PRP Height '0.024inch'
+PRP Lead_Free '5697LeadFree'
+PRP Length '0.079inch'
+PRP Manufacturer_1 'Yageo'
+PRP Manufacturer_Part_Number_1 'RC0805FR-071KL'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '125mW'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Pins '2'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Power_Rating '125mW'
+PRP Pricing_1 '1=0.1, 10=0.024, 50=0.0152, 100=0.0127, 500=0.00866, 1000=0.00748 (USD)'
+PRP Reach_SVHC_Compliant 'No'
+PRP Resistance '1kR'
+PRP Resistance_Tolerance '1%'
+PRP Resistor_Type 'Thick Film'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'RC'
+PRP Size_Code '0805'
+PRP Stock_1 '5573569'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-1.00KCRCT-ND'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '1%'
+PRP Voltage_Rating '150V'
+PRP Voltage_Rating_(AC) '150V'
+PRP Voltage_Rating_(DC) '150V'
+PRP Width '0.049inch'
+TOP 0 0.2401575 0.9798638 180 N 13 4 R26-1
+TOP 1 0.2401575 0.9070293 180 N 9 2 R26-2
+#
+# CMP 3
+CMP 11 0.2401575 1.9317054 270 N R17 10K ;0=1,1=0.0236
+PRP Case_Code_(Imperial) '0805'
+PRP Case_Code_(Metric) '2012'
+PRP Case/Package '0805'
+PRP Category 'Chip SMD Resistors'
+PRP Construction 'Rectangular'
+PRP Depth '1.25mm'
+PRP Features 'Moisture Resistant'
+PRP Height '0.024inch'
+PRP Lead_Free 'Lead Free'
+PRP Length '0.079inch'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RC0805FR-0710KL'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '125mW'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Power_Rating '125mW'
+PRP Reach_SVHC_Compliant 'Unknown'
+PRP Resistance '10kR'
+PRP Resistance_Tolerance '1%'
+PRP Resistor_Type 'Thick Film'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'RC'
+PRP Size_Code '0805'
+PRP Stock_1 '225000'
+PRP Supplier_1 'Rs'
+PRP Technology 'THICK FILM'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '1%'
+PRP Voltage_Rating '150V'
+PRP Width '0.049inch'
+TOP 0 0.2401575 1.8952881 0 N 10 3 R17-1
+TOP 1 0.2401575 1.9681227 0 N 6 8 R17-2
+#
+# CMP 4
+CMP 6 0.1401575 2.1309946 270 N P2 Header_2X2 ;0=2,1=0.0000
+PRP LatestRevisionDate '17-Jul-2002'
+PRP LatestRevisionNote 'Re-released for DXP Platform.'
+PRP Publisher 'Altium Limited'
+TOP 0 0.1401575 2.1309946 270 N 14 22 P2-1
+TOP 1 0.2401575 2.1309946 270 N 6 10 P2-2
+TOP 2 0.1401575 2.2309946 270 N 14 23 P2-3
+TOP 3 0.2401575 2.2309946 270 N 6 11 P2-4
+#
+# CMP 5
+CMP 7 0.1401575 1.1503937 270 N P1 Header_5X2 ;0=2,1=0.0000
+PRP LatestRevisionDate '17-Jul-2002'
+PRP LatestRevisionNote 'Re-released for DXP Platform.'
+PRP Publisher 'Altium Limited'
+TOP 0 0.1401575 1.1503937 270 N 14 17 P1-1
+TOP 1 0.2401575 1.1503937 270 N 13 5 P1-2
+TOP 2 0.1401575 1.2503937 270 N 14 18 P1-3
+TOP 3 0.2401575 1.2503937 270 N 13 6 P1-4
+TOP 4 0.1401575 1.3503937 270 N 14 19 P1-5
+TOP 5 0.2401575 1.3503937 270 N 13 7 P1-6
+TOP 6 0.1401575 1.4503937 270 N 14 20 P1-7
+TOP 7 0.2401575 1.4503937 270 N 13 8 P1-8
+TOP 8 0.1401575 1.5503937 270 N 14 21 P1-9
+TOP 9 0.2401575 1.5503937 270 N 13 9 P1-10
+#
+# CMP 6
+CMP 8 0.1952756 0.9365569 270 N DS7 HSMG-C190 ;0=1,1=0.0354
+PRP Category 'LEDs'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/15117/getdatasheetpartid-110413-15117483.pdf?src-supplier=Verical'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/15117/getdatasheetpartid-110413-15117483.pdf?src-supplier=Verical'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/11773/0900766b80ad69c9-11773861.pdf?src-supplier=Rs'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/11773/0900766b80ad69c9-11773861.pdf?src-supplier=Rs'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/31395/1487342-31395358.pdf?src-supplier=Farnell'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/31395/1487342-31395358.pdf?src-supplier=Farnell'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/29280/180659-da-01-en-chip-led-hsmg-c190-gelb-gruen-29280615.pdf?src-supplier=Conrad'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/29280/180659-da-01-en-chip-led-hsmg-c190-gelb-gruen-29280615.pdf?src-supplier=Conrad'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/14172/swseriehsmx-c150toc190-e-14172173.pdf?src-supplier=Distrelec'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/14172/swseriehsmx-c150toc190-e-14172173.pdf?src-supplier=Distrelec'
+PRP ComponentLink6Description 'https://datasheet.ciiva.com/46426/313031-46426519.pdf?src-supplier=Element14'
+PRP ComponentLink6URL 'https://datasheet.ciiva.com/46426/313031-46426519.pdf?src-supplier=Element14'
+PRP ComponentLink7Description 'https://datasheet.ciiva.com/46426/313031-46426520.pdf?src-supplier=Element14'
+PRP ComponentLink7URL 'https://datasheet.ciiva.com/46426/313031-46426520.pdf?src-supplier=Element14'
+PRP Manufacturer 'Broadcom Avago'
+PRP Manufacturer_Part_Number 'HSMG-C190'
+PRP Pricing_1 '1=0.39, 10=0.254, 100=0.1696, 500=0.11732, 1000=0.09776, 2000=0.08799 (USD)'
+PRP RoHS 'Yes'
+PRP Stock_1 '262974'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '516-1425-1-ND'
+TOP 0 0.1401575 0.9070293 0 N 9 3 DS7-1
+TOP 1 0.1401575 0.9660844 0 N 14 14 DS7-2
+#
+# CMP 7
+CMP 8 0.1952756 1.9253078 270 N DS4 HSMG-C190 ;0=1,1=0.0354
+PRP Category 'LEDs'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/15117/getdatasheetpartid-110413-15117483.pdf?src-supplier=Verical'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/15117/getdatasheetpartid-110413-15117483.pdf?src-supplier=Verical'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/11773/0900766b80ad69c9-11773861.pdf?src-supplier=Rs'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/11773/0900766b80ad69c9-11773861.pdf?src-supplier=Rs'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/31395/1487342-31395358.pdf?src-supplier=Farnell'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/31395/1487342-31395358.pdf?src-supplier=Farnell'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/29280/180659-da-01-en-chip-led-hsmg-c190-gelb-gruen-29280615.pdf?src-supplier=Conrad'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/29280/180659-da-01-en-chip-led-hsmg-c190-gelb-gruen-29280615.pdf?src-supplier=Conrad'
+PRP ComponentLink5Description 'https://datasheet.ciiva.com/14172/swseriehsmx-c150toc190-e-14172173.pdf?src-supplier=Distrelec'
+PRP ComponentLink5URL 'https://datasheet.ciiva.com/14172/swseriehsmx-c150toc190-e-14172173.pdf?src-supplier=Distrelec'
+PRP ComponentLink6Description 'https://datasheet.ciiva.com/46426/313031-46426519.pdf?src-supplier=Element14'
+PRP ComponentLink6URL 'https://datasheet.ciiva.com/46426/313031-46426519.pdf?src-supplier=Element14'
+PRP ComponentLink7Description 'https://datasheet.ciiva.com/46426/313031-46426520.pdf?src-supplier=Element14'
+PRP ComponentLink7URL 'https://datasheet.ciiva.com/46426/313031-46426520.pdf?src-supplier=Element14'
+PRP Manufacturer 'Broadcom Avago'
+PRP Manufacturer_Part_Number 'HSMG-C190'
+PRP Pricing_1 '1=0.39, 10=0.254, 100=0.1696, 500=0.11732, 1000=0.09776, 2000=0.08799 (USD)'
+PRP RoHS 'Yes'
+PRP Stock_1 '262974'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '516-1425-1-ND'
+TOP 0 0.1401575 1.8957802 0 N 10 2 DS4-1
+TOP 1 0.1401575 1.9548353 0 N 14 13 DS4-2
+#
+# CMP 8
+CMP 9 3.3464617 3.7401575 0 N MH4 MH_3mm ;0=2,1=0.0000
+TOP 0 3.3464617 3.7401575 180 N 0 12 MH4-1
+#
+# CMP 9
+CMP 9 3.3464617 0.1968504 0 N MH3 MH_3mm ;0=2,1=0.0000
+TOP 0 3.3464617 0.1968504 180 N 0 11 MH3-1
+#
+# CMP 10
+CMP 9 0.1968552 3.0708661 0 N MH2 MH_3mm ;0=2,1=0.0000
+TOP 0 0.1968552 3.0708661 180 N 0 10 MH2-1
+#
+# CMP 11
+CMP 9 0.1968552 0.1968504 0 N MH1 MH_3mm ;0=2,1=0.0000
+TOP 0 0.1968552 0.1968504 180 N 0 9 MH1-1
+#
+# CMP 12
+CMP 4 1.6338584 3.492126 270 N CON2 PJ-002A ;0=2,1=0.0000
+PRP Category 'Power Connectors'
+PRP ComponentLink1Description 'https://datasheet.octopart.com/PJ-002A-CUI-datasheet-37357.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://datasheet.octopart.com/PJ-002A-CUI-datasheet-37357.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'https://datasheet.octopart.com/PJ-002A-CUI-Devices-datasheet-137760667.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink2URL 'https://datasheet.octopart.com/PJ-002A-CUI-Devices-datasheet-137760667.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink3Description 'https://datasheet.octopart.com/PJ-002A-CUI-Devices-datasheet-103108261.pdf?src-supplier=Electro+Sonic'
+PRP ComponentLink3URL 'https://datasheet.octopart.com/PJ-002A-CUI-Devices-datasheet-103108261.pdf?src-supplier=Electro+Sonic'
+PRP ComponentLink4Description 'https://datasheet.octopart.com/PJ-002A-CUI-Devices-datasheet-141000101.pdf?src-supplier=Master+Electronics'
+PRP ComponentLink4URL 'https://datasheet.octopart.com/PJ-002A-CUI-Devices-datasheet-141000101.pdf?src-supplier=Master+Electronics'
+PRP Manufacturer_1 'CUI Devices'
+PRP Manufacturer_Part_Number_1 'PJ-002A'
+PRP Pricing_1 '1=0.7, 25=0.5692, 100=0.5037, 500=0.43708, 2500=0.33482, 10000=0.31654 (USD)'
+PRP RoHS 'Yes'
+PRP Stock_1 '67885'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'CP-002A-ND'
+TOP 0 1.6338584 3.492126 0 N 32 14 CON2-1
+TOP 1 1.6338584 3.7283465 0 N 31 10 CON2-2
+TOP 2 1.8188978 3.6102362 90 N 14 16 CON2-3
+#
+# CMP 13
+CMP 18 2.992126 0.1247958 180 N TP8 Test_Point_SMD_Round_1.27mm ;0=1,1=0.0000
+TOP 0 2.992126 0.1247958 0 N 35 10 TP8-1
+#
+# CMP 14
+CMP 18 2.1186219 0.1247958 180 N TP4 Test_Point_SMD_Round_1.27mm ;0=1,1=0.0000
+TOP 0 2.1186219 0.1247958 0 N 36 10 TP4-1
+#
+# CMP 15
+CMP 18 2.1186219 3.6851592 180 N TP5 Test_Point_SMD_Round_1.27mm ;0=1,1=0.0000
+TOP 0 2.1186219 3.6851592 0 N 22 13 TP5-1
+#
+# CMP 16
+CMP 18 1.2450788 3.6930448 180 N TP3 Test_Point_SMD_Round_1.27mm ;0=1,1=0.0000
+TOP 0 1.2450788 3.6930448 0 N 32 13 TP3-1
+#
+# CMP 17
+CMP 18 0.8356299 3.5679134 180 N TP1 Test_Point_SMD_Round_1.27mm ;0=1,1=0.0000
+TOP 0 0.8356299 3.5679134 0 N 32 12 TP1-1
+#
+# CMP 18
+CMP 0 1.2450787 1.88189 270 N CON3 1042P ;0=1,1=0.0000
+PRP Category 'Batteries and Accessories'
+PRP ComponentLink1Description 'http://www.farnell.com/datasheets/2067690.pdf?src-supplier=Farnell'
+PRP ComponentLink1URL 'http://www.farnell.com/datasheets/2067690.pdf?src-supplier=Farnell'
+PRP ComponentLink2Description 'http://www.mouser.com/ds/2/215/042P-744096.pdf?src-supplier=Mouser'
+PRP ComponentLink2URL 'http://www.mouser.com/ds/2/215/042P-744096.pdf?src-supplier=Mouser'
+PRP ComponentLink3Description 'http://www.farnell.com/datasheets/2067690.pdf?src-supplier=Newark'
+PRP ComponentLink3URL 'http://www.farnell.com/datasheets/2067690.pdf?src-supplier=Newark'
+PRP ComponentLink4Description 'http://keyelco.com/product-pdf.cfm?p=13957&src-supplier=Digi-Key'
+PRP ComponentLink4URL 'http://keyelco.com/product-pdf.cfm?p=13957&src-supplier=Digi-Key'
+PRP ComponentLink5Description 'https://datasheet.octopart.com/1042P-Keystone-datasheet-65568923.pdf?src-supplier=Element14'
+PRP ComponentLink5URL 'https://datasheet.octopart.com/1042P-Keystone-datasheet-65568923.pdf?src-supplier=Element14'
+PRP ComponentLink6Description 'https://datasheet.octopart.com/1042P-Keystone-datasheet-159767845.pdf?src-supplier=TME'
+PRP ComponentLink6URL 'https://datasheet.octopart.com/1042P-Keystone-datasheet-159767845.pdf?src-supplier=TME'
+PRP Manufacturer_1 'Keystone Electronics'
+PRP Manufacturer_Part_Number_1 '1042P'
+PRP Pricing_1 '1=5.34, 25=4.4896, 100=3.7118, 250=3.41128, 500=3.19918, 1000=2.98708, 2500=2.70428, 5000=2.1 (USD)'
+PRP RoHS 'No'
+PRP Stock_1 '25811'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '36-1042P-ND'
+TOP 0 1.2450788 3.443701 270 N 32 11 CON3-1
+TOP 1 1.2450788 0.320079 270 N 36 9 CON3-2
+TOP 2 0.9301182 3.2921262 270 N 0 8 CON3-empty-1
+TOP 3 0.9301182 0.7952758 270 N 0 7 CON3-empty-2
+TOP 4 1.5600394 2.9685042 270 N 0 6 CON3-empty-3
+#
+# CMP 19
+CMP 0 2.118622 1.88189 90 N CON4 1042P ;0=1,1=0.0000
+PRP Category 'Batteries and Accessories'
+PRP ComponentLink1Description 'http://www.farnell.com/datasheets/2067690.pdf?src-supplier=Farnell'
+PRP ComponentLink1URL 'http://www.farnell.com/datasheets/2067690.pdf?src-supplier=Farnell'
+PRP ComponentLink2Description 'http://www.mouser.com/ds/2/215/042P-744096.pdf?src-supplier=Mouser'
+PRP ComponentLink2URL 'http://www.mouser.com/ds/2/215/042P-744096.pdf?src-supplier=Mouser'
+PRP ComponentLink3Description 'http://www.farnell.com/datasheets/2067690.pdf?src-supplier=Newark'
+PRP ComponentLink3URL 'http://www.farnell.com/datasheets/2067690.pdf?src-supplier=Newark'
+PRP ComponentLink4Description 'http://keyelco.com/product-pdf.cfm?p=13957&src-supplier=Digi-Key'
+PRP ComponentLink4URL 'http://keyelco.com/product-pdf.cfm?p=13957&src-supplier=Digi-Key'
+PRP ComponentLink5Description 'https://datasheet.octopart.com/1042P-Keystone-datasheet-65568923.pdf?src-supplier=Element14'
+PRP ComponentLink5URL 'https://datasheet.octopart.com/1042P-Keystone-datasheet-65568923.pdf?src-supplier=Element14'
+PRP ComponentLink6Description 'https://datasheet.octopart.com/1042P-Keystone-datasheet-159767845.pdf?src-supplier=TME'
+PRP ComponentLink6URL 'https://datasheet.octopart.com/1042P-Keystone-datasheet-159767845.pdf?src-supplier=TME'
+PRP Manufacturer_1 'Keystone Electronics'
+PRP Manufacturer_Part_Number_1 '1042P'
+PRP Pricing_1 '1=5.34, 25=4.4896, 100=3.7118, 250=3.41128, 500=3.19918, 1000=2.98708, 2500=2.70428, 5000=2.1 (USD)'
+PRP RoHS 'No'
+PRP Stock_1 '25811'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '36-1042P-ND'
+TOP 0 2.1186219 0.320079 90 N 36 8 CON4-1
+TOP 1 2.1186219 3.443701 90 N 22 11 CON4-2
+TOP 2 2.4335825 0.4716538 90 N 0 2 CON4-empty-1
+TOP 3 2.4335825 2.9685042 90 N 0 1 CON4-empty-2
+TOP 4 1.8036613 0.7952758 90 N 0 0 CON4-empty-3
+#
+# CMP 20
+CMP 0 2.9921259 1.88189 270 N CON5 1042P ;0=1,1=0.0000
+PRP Category 'Batteries and Accessories'
+PRP ComponentLink1Description 'http://www.farnell.com/datasheets/2067690.pdf?src-supplier=Farnell'
+PRP ComponentLink1URL 'http://www.farnell.com/datasheets/2067690.pdf?src-supplier=Farnell'
+PRP ComponentLink2Description 'http://www.mouser.com/ds/2/215/042P-744096.pdf?src-supplier=Mouser'
+PRP ComponentLink2URL 'http://www.mouser.com/ds/2/215/042P-744096.pdf?src-supplier=Mouser'
+PRP ComponentLink3Description 'http://www.farnell.com/datasheets/2067690.pdf?src-supplier=Newark'
+PRP ComponentLink3URL 'http://www.farnell.com/datasheets/2067690.pdf?src-supplier=Newark'
+PRP ComponentLink4Description 'http://keyelco.com/product-pdf.cfm?p=13957&src-supplier=Digi-Key'
+PRP ComponentLink4URL 'http://keyelco.com/product-pdf.cfm?p=13957&src-supplier=Digi-Key'
+PRP ComponentLink5Description 'https://datasheet.octopart.com/1042P-Keystone-datasheet-65568923.pdf?src-supplier=Element14'
+PRP ComponentLink5URL 'https://datasheet.octopart.com/1042P-Keystone-datasheet-65568923.pdf?src-supplier=Element14'
+PRP ComponentLink6Description 'https://datasheet.octopart.com/1042P-Keystone-datasheet-159767845.pdf?src-supplier=TME'
+PRP ComponentLink6URL 'https://datasheet.octopart.com/1042P-Keystone-datasheet-159767845.pdf?src-supplier=TME'
+PRP Manufacturer_1 'Keystone Electronics'
+PRP Manufacturer_Part_Number_1 '1042P'
+PRP Pricing_1 '1=5.34, 25=4.4896, 100=3.7118, 250=3.41128, 500=3.19918, 1000=2.98708, 2500=2.70428, 5000=2.1 (USD)'
+PRP RoHS 'No'
+PRP Stock_1 '25811'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '36-1042P-ND'
+TOP 0 2.992126 3.443701 270 N 22 12 CON5-1
+TOP 1 2.992126 0.320079 270 N 35 9 CON5-2
+TOP 2 2.6771654 3.2921262 270 N 0 5 CON5-empty-1
+TOP 3 2.6771654 0.7952758 270 N 0 4 CON5-empty-2
+TOP 4 3.3070866 2.9685042 270 N 0 3 CON5-empty-3
+#

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GND Pin=CON6-2
+Added Pin To Net: NetName=Out- Pin=CON6-2

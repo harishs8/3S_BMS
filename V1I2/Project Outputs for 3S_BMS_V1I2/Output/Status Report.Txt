@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [3S_BMS_V1I2.PrjPcb]
+   Generated File[Bill of Materials-3S_BMS.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 22:14:50 On 04-02-2024

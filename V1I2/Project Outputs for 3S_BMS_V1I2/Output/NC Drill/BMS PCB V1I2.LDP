@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\[1] - Personal\[5] - Personal Development\[1] - Projects\[5] - 3S_BMS\V1I2\BMS PCB V1I2.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=bms pcb v1i2.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=bms pcb v1i2-rectholes.txt|DrillLayers=gtl,gbl

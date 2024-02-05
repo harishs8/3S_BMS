@@ -17,7 +17,7 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=Output.OutJob
 Description=
-TargetOutputMedium=Assembly File
+TargetOutputMedium=PDF
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
@@ -38,7 +38,7 @@ OutputMedium5_Type=Publish
 OutputType1=Gerber
 OutputName1=Gerber Files
 OutputCategory1=Fabrication
-OutputDocumentPath1=BMS PCB.PcbDoc
+OutputDocumentPath1=BMS PCB V1I2.PcbDoc
 OutputVariantName1=
 OutputEnabled1=0
 OutputEnabled1_OutputMedium1=0
@@ -52,7 +52,7 @@ Configuration1_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayer
 OutputType2=NC Drill
 OutputName2=NC Drill Files
 OutputCategory2=Fabrication
-OutputDocumentPath2=BMS PCB.PcbDoc
+OutputDocumentPath2=BMS PCB V1I2.PcbDoc
 OutputVariantName2=
 OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
@@ -66,7 +66,7 @@ Configuration2_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|Ge
 OutputType3=ODB
 OutputName3=ODB++ Files
 OutputCategory3=Fabrication
-OutputDocumentPath3=BMS PCB.PcbDoc
+OutputDocumentPath3=BMS PCB V1I2.PcbDoc
 OutputVariantName3=
 OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
@@ -80,7 +80,7 @@ Configuration3_Item1=Compression_None=True|Compression_tar_tgz=True|Compression_
 OutputType4=Drill
 OutputName4=Drill Drawing/Guides
 OutputCategory4=Fabrication
-OutputDocumentPath4=BMS PCB.PcbDoc
+OutputDocumentPath4=BMS PCB V1I2.PcbDoc
 OutputVariantName4=
 OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
@@ -128,7 +128,7 @@ PcbPrintPreferences4=
 OutputType5=Assembly
 OutputName5=Assembly Drawings
 OutputCategory5=Assembly
-OutputDocumentPath5=BMS PCB.PcbDoc
+OutputDocumentPath5=BMS PCB V1I2.PcbDoc
 OutputVariantName5=
 OutputEnabled5=0
 OutputEnabled5_OutputMedium1=0
@@ -193,26 +193,26 @@ OutputEnabled6_OutputMedium3=2
 OutputEnabled6_OutputMedium4=0
 OutputEnabled6_OutputMedium5=1
 OutputDefault6=0
-PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType7=Schematic Print
 OutputName7=Schematic Prints
 OutputCategory7=Documentation
 OutputDocumentPath7=
 OutputVariantName7=
-OutputEnabled7=0
+OutputEnabled7=1
 OutputEnabled7_OutputMedium1=0
 OutputEnabled7_OutputMedium2=0
 OutputEnabled7_OutputMedium3=1
 OutputEnabled7_OutputMedium4=0
 OutputEnabled7_OutputMedium5=0
 OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration7_Name1=OutputConfigurationParameter1
 Configuration7_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=D:\[1] - Personal\[5] - Personal Development\[1] - Projects\[5] - 3S_BMS\Main Schematics.SchDoc
 OutputType8=PDF3D
 OutputName8=PDF3D
 OutputCategory8=Documentation
-OutputDocumentPath8=BMS PCB.PcbDoc
+OutputDocumentPath8=BMS PCB V1I2.PcbDoc
 OutputVariantName8=
 OutputEnabled8=1
 OutputEnabled8_OutputMedium1=0
@@ -221,7 +221,7 @@ OutputEnabled8_OutputMedium3=3
 OutputEnabled8_OutputMedium4=0
 OutputEnabled8_OutputMedium5=2
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration8_Name1=OutputConfigurationParameter1
 Configuration8_Item1=Record=ExportPDF3DSetting|Version=110|Format=0|Flags=8158|Scheme=0|ViewColorR0=255|ViewColorG0=255|ViewColorB0=255|ViewLignt0=9|ViewColorR1=255|ViewColorG1=255|ViewColorB1=255|ViewLignt1=9|ViewColorR2=255|ViewColorG2=255|ViewColorB2=255|ViewLignt2=9|ViewColorR3=255|ViewColorG3=255|ViewColorB3=255|ViewLignt3=9|DocumentPath=D:\[1] - Personal\[5] - Personal Development\[1] - Projects\[5] - 3S_BMS\BMS PCB.PcbDoc
 OutputType9=BOM_PartType
@@ -249,9 +249,9 @@ Configuration9_Name5=VisibleOrder
 Configuration9_Item5=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
 
 [PublishSettings]
-OutputFilePath2=D:\[1] - Personal\[5] - Personal Development\[1] - Projects\[5] - 3S_BMS\Project Outputs for 3S_BMS\Output\
+OutputFilePath2=D:\[1] - Personal\[5] - Personal Development\[1] - Projects\[5] - 3S_BMS\V1I2\Project Outputs for 3S_BMS_V1I2\Output\
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for 3S_BMS
+OutputBasePath2=Project Outputs for 3S_BMS_V1I2
 OutputPathMedia2=[Media Name]
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -264,7 +264,7 @@ OutputFileNameSpecial2=
 OpenOutput2=1
 OutputFilePath3=D:\[1] - Personal\[5] - Personal Development\[1] - Projects\[5] - 3S_BMS\Project Outputs for 3S_BMS\Output.PDF
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for 3S_BMS
+OutputBasePath3=Project Outputs for 3S_BMS_V1I2
 OutputPathMedia3=[Media Name]
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -291,7 +291,7 @@ PDFACompliance3=Disabled
 PDFVersion3=Default
 OutputFilePath4=D:\[1] - Personal\[5] - Personal Development\[1] - Projects\[5] - 3S_BMS\Project Outputs for 3S_BMS\Output.PDF
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for 3S_BMS
+OutputBasePath4=Project Outputs for 3S_BMS_V1I2
 OutputPathMedia4=[Media Type]
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -318,7 +318,7 @@ PDFACompliance4=Disabled
 PDFVersion4=Default
 OutputFilePath5=D:\[1] - Personal\[5] - Personal Development\[1] - Projects\[5] - 3S_BMS\Project Outputs for 3S_BMS\.PDF
 ReleaseManaged5=1
-OutputBasePath5=Project Outputs for 3S_BMS
+OutputBasePath5=Project Outputs for 3S_BMS_V1I2
 OutputPathMedia5=
 OutputPathMediaValue5=
 OutputPathOutputer5=[Output Type]
@@ -345,7 +345,7 @@ PDFACompliance5=Disabled
 PDFVersion5=Default
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=D:\[1] - Personal\[5] - Personal Development\[1] - Projects\[5] - 3S_BMS\Project Outputs for 3S_BMS\Output\
+RelativeOutputPath2=D:\[1] - Personal\[5] - Personal Development\[1] - Projects\[5] - 3S_BMS\V1I2\Project Outputs for 3S_BMS_V1I2\Output\
 OpenOutputs2=1
 AddToProject2=1
 TimestampFolder2=0
